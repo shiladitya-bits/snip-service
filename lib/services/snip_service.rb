@@ -1,6 +1,5 @@
 require 'grpc'
 require 'snip_services_pb'
-require 'googl'
 
 class SnipService < Snip::UrlSnipService::Service
 

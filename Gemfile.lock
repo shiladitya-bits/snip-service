@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:shiladitya-bits/snip.git
-  revision: 10b21f715e519aaa44ec165e736674e063eda6be
+  remote: https://github.com/shiladitya-bits/snip
+  revision: 0dca02b74d65f2e09d6e7cceef36d9c138d6693b
   branch: master
   specs:
     snip (0.1.1)

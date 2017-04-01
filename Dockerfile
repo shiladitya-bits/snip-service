@@ -9,7 +9,6 @@ RUN bundle config --global frozen 1
 
 RUN bundle install --without development test
 COPY lib /snip/lib
-COPY Rakefile /snip
 
 EXPOSE 50052
 ENTRYPOINT [ "bundle", "exec"]
